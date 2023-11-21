@@ -5,7 +5,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Checkout the source code from the repository
-                git 'https://github.com/your-username/your-repo.git'
+                git 'https://github.com/shravanikodam01/multipage-website-CC-inClassLab3.git'
             }
         }
        
